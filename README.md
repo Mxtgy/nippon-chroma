@@ -1,15 +1,8 @@
-# README NIPPON CHROMA
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<p align="center">
+  <img width=100 src="./images/logo-nippon-chroma-light.png">
+</p>
+<h1 align="center">Nippon Chroma Theme</h1>
+<p align="center">A Japan-inspired light theme for VS Code with soft pastels and deep violets, balancing readability and visual comfort for long coding sessions.</p>
+![Screenshot](./images/screenshot.png)
 
 **Enjoy!**
