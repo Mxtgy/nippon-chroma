@@ -23,6 +23,7 @@
     "Light",
     "Light Theme",
     "color-theme",
+    "vscode-theme",
     "Nippon Chroma"
   ],
   "contributes": {

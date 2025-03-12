@@ -6,4 +6,13 @@
 
 ![Screenshot](./images/screenshot.png)
 
+## Installation
+
+* Open the Extensions sidebar panel.
+* Search for `Nippon Chroma`.
+* Click on the Install button.
+* Click on the Reload button.
+* Then select the theme. `Code` > `Preferences` > `Theme` > `Color Theme` > `Nippon Chroma`.
+
+
 **Enjoy!**
