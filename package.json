@@ -2,7 +2,7 @@
   "name": "nippon-chroma-theme",
   "displayName": "Nippon Chroma",
   "description": "A Japan-inspired light theme with soft pastels and deep violets, balancing readability and visual comfort for long coding sessions.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "maximetanguy",
   "icon": "images/logo-nippon-chroma-light.png",
   "engines": {
